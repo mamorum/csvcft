@@ -2,3 +2,10 @@ baseURL: "https://mamorum.github.io/csvcft/"
 locale: "ja-jp"
 title: CsvCft
 theme: hextra
+
+markup:
+  highlight:
+    noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
