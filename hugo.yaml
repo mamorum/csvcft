@@ -3,9 +3,40 @@ locale: "ja-jp"
 title: CsvCft
 theme: hextra
 
+enableRobotsTXT: true
+hasCJKLanguage: true
+
+defaultContentLanguage: ja
+languages:
+  ja:
+    label: "日本語"
+    weight: 1
+
 markup:
   highlight:
     noClasses: false
   goldmark:
     renderer:
       unsafe: true
+
+menu:
+  main:
+    - identifier: documentation
+      name: ドキュメント
+      pageRef: /docs
+      weight: 1
+
+  sidebar:
+    - identifier: hugoDocs
+      name: "ダウンロード ↗"
+      url: "https://gohugo.io/documentation/"
+      weight: 1
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: false
+  footer:
+    enable: true
+    displayCopyright: true
+    displayPoweredBy: true
