@@ -1,4 +1,9 @@
 ---
-date: '2026-10-16T00:00:00+09:00'
-title: 'Docs'
+linkTitle: "ドキュメント"
+title: 目次
 ---
+
+{{< cards >}}
+  {{< card link="overview" title="概要" >}}
+  {{< card link="install" title="インストール" >}}
+{{< /cards >}}
