@@ -1,4 +1,4 @@
-baseURL: https://mamorum.github.io/csvcft/
+baseURL: "https://mamorum.github.io/csvcft/"
 locale: "ja-jp"
 title: CsvCft
 theme: hextra
