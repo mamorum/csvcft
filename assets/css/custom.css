@@ -1,0 +1,12 @@
+html {
+  font-family: Arial, Meiryo, sans-serif;
+}
+
+/* disable top page gradation */
+h1.hx\:text-transparent {
+  color: inherit;
+}
+/* top page min-height */
+#content.hx\:min-h-\[calc\(100vh-var\(--hextra-navbar-height\)\)\] {
+  min-height: 0;
+}
