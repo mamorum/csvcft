@@ -11,16 +11,37 @@ layout: hextra-home
 
 <div class="hx:mt-6 hx:mb-6">
 {{< hextra/hero-headline >}}
-  投資分析用&nbsp;<br class="hx:sm:block hx:hidden" />CSV変換・整形ツール
+  CsvCft
 {{< /hextra/hero-headline >}}
 </div>
 
 <div class="hx:mb-12">
 {{< hextra/hero-subtitle >}}
-  複数のデータプロバイダーに対応&nbsp;<br class="hx:sm:block hx:hidden" />日次CSVを共通的な形式に変換
+  投資分析用&nbsp;<br class="hx:sm:block hx:hidden" />CSV変換･整形ツール
 {{< /hextra/hero-subtitle >}}
 </div>
 
 <div class="hx:mb-6">
 {{< hextra/hero-button text="始める" link="docs/overview" >}}
 </div>
+
+<div class="hx:mt-6"></div>
+
+{{< hextra/feature-grid >}}
+  {{< hextra/feature-card
+    title="複数の提供元に対応"
+    subtitle="複数の運用会社のCSVや、データプロバイダーのCSVを変換することができます。"
+  >}}
+  {{< hextra/feature-card
+    title="複数のアセットに対応"
+    subtitle="投資信託、ETF、株式などの日次CSVを変換することができます。"
+  >}}
+  {{< hextra/feature-card
+    title="共通形式に変換"
+    subtitle="様々な形式のCSVを共通的な形式に変換します。"
+  >}}
+  {{< hextra/feature-card
+    title="GUIアプリ"
+    subtitle="WindowsのGUIアプリで、直感的な操作が可能です。"
+  >}}
+{{< /hextra/feature-grid >}}
