@@ -1,10 +1,6 @@
 ---
 title: 概要
 weight: 1
-tags:
-  - Docs
-next: /docs/install
-prev: /docs
 ---
 
 ## CsvCft とは？
