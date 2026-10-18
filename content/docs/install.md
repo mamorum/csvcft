@@ -22,14 +22,14 @@ TODO: プロパティでセキュリティの「許可する」をチェック�
 ## コピー
 ZIPの中身を、ユーザーフォルダ配下などの書込み可能な場所にコピーします。
 
-| パス                           | 例                                   |
+| コピー先のパス                 | 例                                   |
 | :----------------------------- | :----------------------------------- |
 | %USERPROFILE%\csvcft           | C:\Users\ユーザー名\csvcft           |
 | %USERPROFILE%\Documents\csvcft | C:\Users\ユーザー名\Documents\csvcft |
 
 分析アプリのDkneと一緒に使う場合は、ZIPの中身をDkneのフォルダにコピーしても大丈夫です。
 
-| パス                           | 例                                 |
+| コピー先のパス                 | 例                                 |
 | :----------------------------- | :--------------------------------- |
 | %USERPROFILE%\dkne             | C:\Users\ユーザー名\dkne           |
 | %USERPROFILE%\Documents\dkne   | C:\Users\ユーザー名\Documents\dkne |
@@ -42,7 +42,6 @@ CSVの変換に使う定義ファイルを準備します。
 
 | 変更前                    | 変更後                |
 | :------------------------ | :-------------------- |
-| default_cft-def.ini       | cft-def.ini           |
-
+| cft-def_default.ini       | cft-def.ini           |
 
 TODO: 変換定義の詳細や書き方を示すページへのリンクを掲載する
