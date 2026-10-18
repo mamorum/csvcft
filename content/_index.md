@@ -5,7 +5,7 @@ layout: hextra-home
 
 {{< hextra/hero-badge >}}
   <div class="hx:w-2 hx:h-2 hx:rounded-full hx:bg-primary-400"></div>
-  <span>無料、開発中</span>
+  <span>無料、準備中</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 
@@ -17,7 +17,7 @@ layout: hextra-home
 
 <div class="hx:mb-12">
 {{< hextra/hero-subtitle >}}
-  投資分析用&nbsp;<br class="hx:sm:block hx:hidden" />CSV変換･整形ツール
+  投資分析用&nbsp;<br class="hx:sm:block hx:hidden" />CSV変換・整形ツール
 {{< /hextra/hero-subtitle >}}
 </div>
 
@@ -29,12 +29,12 @@ layout: hextra-home
 
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
-    title="複数の提供元に対応"
-    subtitle="複数の運用会社のCSVや、データプロバイダーのCSVを変換することができます。"
-  >}}
-  {{< hextra/feature-card
     title="複数のアセットに対応"
     subtitle="投資信託、ETF、株式などの日次CSVを変換することができます。"
+  >}}
+  {{< hextra/feature-card
+    title="複数の提供元に対応"
+    subtitle="運用会社のCSVや、データプロバイダーのCSVを変換することができます。"
   >}}
   {{< hextra/feature-card
     title="共通形式に変換"
