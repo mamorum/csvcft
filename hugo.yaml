@@ -26,12 +26,6 @@ menu:
       pageRef: /docs
       weight: 1
 
-  sidebar:
-    - identifier: hugoDocs
-      name: "ダウンロード ↗"
-      url: "https://gohugo.io/documentation/"
-      weight: 1
-
 params:
   navbar:
     displayTitle: true
