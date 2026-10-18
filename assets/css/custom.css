@@ -1,7 +1,3 @@
-html {
-  font-family: Arial, Meiryo, sans-serif;
-}
-
 /* disable top page gradation */
 h1.hx\:text-transparent {
   color: inherit;
