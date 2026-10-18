@@ -16,7 +16,7 @@ CsvCftは、アセットの日次CSVを共通的な形式に変換・整形す�
 - Close: 終値 or 基準価額
 - Dividends: 配当金 or 分配金
 
-以下は、CSVの内容の例です。
+以下は、変換後のCSVの例です。
 
 ```
 Date,Close,Dividends
