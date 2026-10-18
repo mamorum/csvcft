@@ -1,7 +1,6 @@
 ---
 title: インストール
 weight: 2
-prev: /docs/overview
 ---
 
 ## ダウンロード
