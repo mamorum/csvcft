@@ -1,6 +1,6 @@
 ---
 title: CSVの配置
-weight: 3
+weight: 4
 ---
 
 ## データフォルダ
