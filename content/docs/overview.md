@@ -23,3 +23,8 @@ Date,Close,Dividends
 2026-06-15,10401,120
 2026-06-16,10428,0
 ```
+
+
+## 動作環境
+- OS: Windows11 64bit
+- CPU: AMD / Intel
