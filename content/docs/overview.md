@@ -3,7 +3,7 @@ title: 概要
 weight: 1
 ---
 
-## CsvCft とは？
+## CsvCftとは？
 CsvCftは、アセットの日次CSVを共通的な形式に変換・整形するツールです。
 
 変換後のCSVは、以下の列で構成されます。
