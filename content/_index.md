@@ -38,7 +38,7 @@ layout: hextra-home
   >}}
   {{< hextra/feature-card
     title="共通形式に変換"
-    subtitle="様々な形式のCSVを共通的な形式に変換します。"
+    subtitle="列はDate, Close, Dividendsの3つで、データはDateの昇順に並びます。"
   >}}
   {{< hextra/feature-card
     title="GUIアプリ"
