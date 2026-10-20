@@ -8,9 +8,9 @@ CsvCftは、アセットの日次CSVを共通的な形式に変換・整形す�
 
 変換後のCSVは、以下の列で構成されます。
 
-- Date: 日付
-- Close: 終値 or 基準価額
-- Dividends: 配当金 or 分配金
+- Date: 日付（yyyy-MM-dd形式）
+- Close: 終値 or 基準価額（カンマなし）
+- Dividends: 配当金 or 分配金（カンマなし）
 
 内容は、日付の昇順となります。
 
