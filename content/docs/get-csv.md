@@ -75,4 +75,4 @@ python mk_yfcsv.py ^^SOX
 - <a target="_blank" href="https://web-dev.hatenablog.com/entry/python/windows/install">Python Windowsにインストールする方法</a>
 - <a target="_blank" href="https://web-dev.hatenablog.com/entry/python/yfinance/install">Python yfinanceをインストールする方法</a>
 
-venv（仮想環境）を作ることもできますが、上記をインストールして実行する方法が簡単だと思います。
+Python の操作に慣れている方は、必要に応じて venv（仮想環境）の作成などもご検討ください。
