@@ -3,23 +3,23 @@ title: 変換定義の編集
 weight: 6
 ---
 
-## 編集と追加
-EXEと同じ場所にある `cft-def.ini` を開いて、定義を編集したり追加することができます。
+## 追加と編集
+EXEと同じ場所に `cft-def.ini` を作成して、定義を追加したり編集することができます。
 
 定義は「`データソース.項目名=値`」となります。
 
 ```
-smp.SkipRows=1
+smp.SkipRows=2
 smp.Encoding=UTF-8
 smp.DateFmt=yyyy-MM-dd
 smp.DateCol=基準日
-smp.CloseCol=基準価額（円）
-smp.DivCol=分配金（税引前）（円）
+smp.CloseCol=基準価額
+smp.DivCol=分配金
 
 sp.Encoding=Shift_JIS
-sp.DateFmt=yyyyMMdd
-sp.DateCol=基準日
-sp.CloseCol=分配金再投資基準価額
+sp.DateFmt=yyyy/MM/dd
+sp.DateCol=日付
+sp.CloseCol=再投資後基準価額
 ```
 
 以下に、定義内容の詳細を記載していきます。
@@ -73,7 +73,7 @@ sp.CloseCol=分配金再投資基準価額
 
 ```
 ; コメント
-; smp.SkipRows=1
+; smp.SkipRows=2
 ```
 
 コメントと空行は、定義として評価されません。
