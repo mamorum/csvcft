@@ -4,13 +4,13 @@ weight: 4
 ---
 
 ## データフォルダ
-CsvCftは、EXEが配置された場所の `data\daily` をデータフォルダとして認識します。
+CsvCftは、EXEが配置された場所の `data\daily` をデータフォルダとして認識します。`data` フォルダを作成して、その下に `daily` フォルダを作成します。
 
 ※ 設定ファイルを使うと、データフォルダのパスを変更することができます。
 
 
 ## 変換元CSV
-データフォルダに、変換対象のCSVを配置します。
+変換対象のCSVを、データフォルダに配置していきます。
 
 {{< filetree/container >}}
   {{< filetree/file name="cft-def.ini" >}}
@@ -26,10 +26,10 @@ CsvCftは、EXEが配置された場所の `data\daily` をデータフォルダ
   {{< /filetree/folder >}}
 {{< /filetree/container >}}
 
-データフォルダ内の要素について、以下に説明を記載していきます。
+データフォルダ内の要素について、上の配置例を元に説明を記載します。
 
 ### mb：データソースフォルダ
-デフォルトの変換定義を使用する場合、データソースがあらかじめ定義されています。[デフォルトの変換定義]({{< ref "default-def.md" >}}) に存在する名称で、フォルダを作成していきます。
+変換定義のサンプルを使用する場合、データソースがあらかじめ定義されています。[変換定義のサンプル]({{< ref "sample-def.md" >}}) に存在する名称で、フォルダを作成していきます。
 
 データソースに応じたCSV変換を行うため、変換定義に存在する名称と一致している必要があります。データソースを追加する場合、半角英数で名前を付けることができます。
 
@@ -65,9 +65,9 @@ CsvCftは、EXEが配置された場所の `data\daily` をデータフォルダ
           {{< filetree/file name="mb-spx.csv" >}}
         {{< /filetree/folder >}}
       {{< /filetree/folder >}}
-      {{< filetree/folder name="yf" state="open" >}}
-        {{< filetree/folder name="yf-qqq" state="open" >}}
-          {{< filetree/file name="yf-qqq.csv" >}}
+      {{< filetree/folder name="ns" state="open" >}}
+        {{< filetree/folder name="ns-ndx" state="open" >}}
+          {{< filetree/file name="ns-ndx.csv" >}}
         {{< /filetree/folder >}}
       {{< /filetree/folder >}}
     {{< /filetree/folder >}}
