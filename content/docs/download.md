@@ -13,6 +13,6 @@ TODO: 入手先でアカウントが必要な場合はその旨を記載する
 
 
 ## 変換定義
-CSVの変換を行う際に、定義ファイルが必要になります。以下のリンクから、変換定義のサンプル `cft-conv.ini` をダウンロードすることができます。 
+CSVの変換を行う際に、定義ファイルが必要になります。以下のリンクをクリックすると、変換定義のサンプル `cft-conv.ini` をダウンロードすることができます。 
 
 <a href="https://github.com/mamorum/csvcft/releases/download/latest/cft-def.ini">最新版 cft-conv.ini - GitHub</a>
