@@ -1,5 +1,5 @@
 ---
-title: 日次CSVの入手
+title: 日次CSVの取得
 weight: 9
 ---
 
