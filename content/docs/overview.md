@@ -22,5 +22,5 @@ Date,Close,Dividends
 
 
 ## 動作環境
-- OS: Windows11 64bit
+- OS: Windows11
 - CPU: AMD / Intel
