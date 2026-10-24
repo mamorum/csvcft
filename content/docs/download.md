@@ -24,8 +24,8 @@ weight: 2
 2. セキュリティの「許可する」をチェック
 3. OKボタンを押下
 
-操作のイメージは以下の通りです。
+操作のイメージは、以下のページに記載しています。
 
-TODO: 画像を掲載する
+<a target="_blank" href="https://web-dev.hatenablog.com/entry/windows/file/unblock">Windows ファイルのブロックを解除する方法</a>
 
 ※ アプリと変換定義の両方で操作を行っていただくことを推奨しています。
