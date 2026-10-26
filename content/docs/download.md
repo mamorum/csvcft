@@ -6,7 +6,7 @@ weight: 2
 ## アプリ
 以下のページから、ダウンロードすることができます。
 
-<a target="_blank" href="https://mamorum.booth.pm/items/9037905">【準備中】 CsvCft 投資分析用CSV変換ツール - BOOTH</a>
+[【準備中】 CsvCft 投資分析用CSV変換ツール - BOOTH](https://mamorum.booth.pm/items/9037905)
 
 ※ pixiv/BOOTH のアカウントが必要になります。
 
@@ -26,6 +26,6 @@ weight: 2
 
 操作のイメージは、以下のページに記載しています。
 
-<a target="_blank" href="https://web-dev.hatenablog.com/entry/windows/file/unblock">Windows ファイルのブロックを解除する方法</a>
+[Windows ファイルのブロックを解除する方法](https://web-dev.hatenablog.com/entry/windows/file/unblock)
 
 ※ アプリと変換定義の両方で操作を行っていただくことを推奨しています。
