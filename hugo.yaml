@@ -1,10 +1,23 @@
 baseURL: "https://mamorum.github.io/csvcft/"
 locale: "ja-jp"
-title: CsvCft
+title: "CsvCft"
 theme: hextra
+
+disableKinds:
+  - taxonomy
+  - term
 
 enableRobotsTXT: true
 hasCJKLanguage: true
+
+# services:
+#   googleAnalytics:
+#     ID: G-MEASUREMENT_ID
+
+outputs:
+  home: [html, llms]
+  page: [html, markdown]
+  section: [html, markdown]
 
 defaultContentLanguage: ja
 languages:
@@ -27,10 +40,21 @@ menu:
       weight: 1
 
 params:
+  description: CsvCft 投資分析用CSV変換ツール
+  externalLinkDecoration: true
   navbar:
     displayTitle: true
     displayLogo: false
+    width: wide
+  theme:
+    default: system
+    displayToggle: true
   footer:
     enable: true
     displayCopyright: true
     displayPoweredBy: true
+    width: normal
+  page:
+    width: normal
+    contextMenu:
+      enable: true
