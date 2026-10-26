@@ -38,6 +38,9 @@ menu:
       name: ドキュメント
       pageRef: /docs
       weight: 1
+    - name: ダウンロード
+      pageRef: /docs/download
+      weight: 2
 
 params:
   description: CsvCft 投資分析用CSV変換ツール
