@@ -12,13 +12,13 @@ EXEと同じ場所に `cft-def.ini` を作成して、定義を追加したり�
 smp.SkipRows=2
 smp.Encoding=UTF-8
 smp.DateFmt=yyyy-MM-dd
-smp.DateCol=基準日
+smp.DateCol=日付
 smp.CloseCol=基準価額
 smp.DivCol=分配金
 
 sp.Encoding=Shift_JIS
 sp.DateFmt=yyyy/MM/dd
-sp.DateCol=日付
+sp.DateCol=基準日
 sp.CloseCol=再投資後基準価額
 ```
 
