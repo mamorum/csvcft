@@ -8,25 +8,25 @@ weight: 3
 
 
 ## アプリのコピー
-ZIPの中身を、ユーザーフォルダ配下などの書き込み可能な場所にコピーします。
+CsvCft.exe を、ユーザーフォルダ配下などの書き込み可能な場所にコピーします。
 
 | コピー先のパス                 | 例                                   |
 | :----------------------------- | :----------------------------------- |
-| %USERPROFILE%\csvcft           | C:\Users\ユーザー名\csvcft           |
-| %USERPROFILE%\Documents\csvcft | C:\Users\ユーザー名\Documents\csvcft |
+| %USERPROFILE%\CsvCft           | C:\Users\ユーザー名\CsvCft           |
+| %USERPROFILE%\Documents\CsvCft | C:\Users\ユーザー名\Documents\CsvCft |
 
 分析アプリのDkneと一緒に使う場合は、ZIPの中身をDkneのフォルダにコピーしても大丈夫です。
 
 | コピー先のパス                 | 例                                 |
 | :----------------------------- | :--------------------------------- |
-| %USERPROFILE%\dkne             | C:\Users\ユーザー名\dkne           |
-| %USERPROFILE%\Documents\dkne   | C:\Users\ユーザー名\Documents\dkne |
+| %USERPROFILE%\Dkne             | C:\Users\ユーザー名\Dkne           |
+| %USERPROFILE%\Documents\Dkne   | C:\Users\ユーザー名\Documents\Dkne |
 
 
 ## 変換定義の準備
-変換定義のサンプルをダウンロードした場合、定義ファイルをアプリのEXEと同じ場所にコピーします。
+cft-def.ini を、アプリのEXEと同じ場所にコピーします。
 
-変換定義を新たに作成する場合、[変換定義の編集]({{< ref "edit-def.md" >}}) が参考になります。
+変換定義を作成する場合は、[変換定義の編集]({{< ref "edit-def.md" >}}) が参考になります。
 
 
 ## アップデート
