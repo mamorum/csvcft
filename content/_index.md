@@ -30,7 +30,7 @@ layout: hextra-home
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
     title="複数のアセットに対応"
-    subtitle="投資信託、ETF、株式などの日次CSVを変換することができます。"
+    subtitle="投資信託、指数、ETF、株式などの日次CSVを変換することができます。"
   >}}
   {{< hextra/feature-card
     title="複数の提供元に対応"
@@ -38,7 +38,7 @@ layout: hextra-home
   >}}
   {{< hextra/feature-card
     title="共通形式に変換"
-    subtitle="列はDate, Close, Dividendsの3つで、データはDateの昇順に並びます。"
+    subtitle="共通CSVの列はDate, Close, Dividendsで、データはDateの昇順に並びます。"
   >}}
   {{< hextra/feature-card
     title="GUIアプリ"
