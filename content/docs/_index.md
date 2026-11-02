@@ -7,8 +7,8 @@ title: 目次
   {{< card link="overview" title="概要" >}}
   {{< card link="download" title="ダウンロード" >}}
   {{< card link="install" title="インストール" >}}
+  {{< card link="csv-conv" title="CSVの変換" >}}
   {{< card link="csv-location" title="CSVの配置" >}}
-  {{< card link="conv-fmt" title="CSVの変換" >}}
   {{< card link="edit-def" title="変換定義の編集" >}}
   {{< card link="sample-def" title="変換定義のサンプル" >}}
   {{< card link="edit-conf" title="設定ファイルの編集" >}}
