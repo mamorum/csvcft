@@ -12,7 +12,6 @@ weight: 7
 | mb           | 三菱UFJ AM 投資信託             |
 | dw           | 大和 AM 投資信託                |
 | amv          | アモーヴァ AM 投資信託          |
-| one          | AM One 投資信託                 |
 | mds          | 三井住友DS AM 投資信託          |
 | mt           | 三井住友トラスト AM 投資信託    |
 | rt           | 楽天投信投資顧問 投資信託       |
