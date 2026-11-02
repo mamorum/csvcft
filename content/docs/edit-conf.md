@@ -13,6 +13,7 @@ DataDir=D:\invest\csv\daily
 InitTicker=mb-spx
 ```
 
+## 設定項目
 ### DataDir
 データフォルダの絶対パスを指定することができます。
 
