@@ -17,7 +17,7 @@ layout: hextra-home
 
 <div class="hx:mb-12">
 {{< hextra/hero-subtitle >}}
-  投資分析用&nbsp;<br class="hx:sm:block hx:hidden" />CSV変換・整形ツール
+  投資分析用&nbsp;<br class="hx:sm:block hx:hidden" />CSV変換ツール
 {{< /hextra/hero-subtitle >}}
 </div>
 
