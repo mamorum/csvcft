@@ -22,11 +22,11 @@ CSVの正確性や完全性などはチェックしません。変換元CSVと�
 ## 変換後CSV
 変換後CSVは、以下の列で構成されます。
 
-- Date: 日付
+- Date: 日付（yyyy-MM-dd）
 - Close: 終値, 基準価額
 - Dividends: 配当金, 分配金
 
-データは日付の昇順となります。
+列順は固定で、データは日付の昇順になります。
 
 ```csv {filename="変換後CSV"}
 Date,Close,Dividends
