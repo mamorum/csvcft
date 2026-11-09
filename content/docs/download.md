@@ -8,8 +8,6 @@ weight: 2
 
 [【準備中】 CsvCft 投資分析用CSV変換ツール - BOOTH](https://mamorum.booth.pm/items/9037905)
 
-※ pixiv/BOOTH のアカウントが必要になります。
-
 
 ## 変換定義
 アプリを使用する際は、定義ファイルが必要になります。
