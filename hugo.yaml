@@ -47,7 +47,9 @@ params:
   externalLinkDecoration: true
   navbar:
     displayTitle: true
-    displayLogo: false
+    displayLogo: true
+    logo:
+      path: png/csvcft-60.png
     width: wide
   theme:
     default: system
