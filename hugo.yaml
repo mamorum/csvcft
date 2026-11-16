@@ -10,9 +10,9 @@ disableKinds:
 enableRobotsTXT: true
 hasCJKLanguage: true
 
-# services:
-#   googleAnalytics:
-#     ID: G-MEASUREMENT_ID
+services:
+  googleAnalytics:
+    id: "G-Y59F8S3N7T"
 
 outputs:
   home: [html, llms]
