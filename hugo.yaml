@@ -8,6 +8,7 @@ disableKinds:
   - term
 
 enableRobotsTXT: true
+enableGitInfo: true
 hasCJKLanguage: true
 
 services:
@@ -59,6 +60,8 @@ params:
     displayCopyright: true
     displayPoweredBy: true
     width: normal
+  displayUpdatedDate: true
+  dateFormat: "2006-01-02"
   page:
     width: normal
     contextMenu:
