@@ -15,14 +15,14 @@ CsvCft.exe を、ユーザーフォルダ配下などの書き込み可能な場
 | %USERPROFILE%\CsvCft           | C:\Users\ユーザー名\CsvCft           |
 | %USERPROFILE%\Documents\CsvCft | C:\Users\ユーザー名\Documents\CsvCft |
 
-分析アプリのDkneと一緒に使う場合は、分析アプリと同じフォルダにコピーすることを推奨しています。
+分析アプリと一緒に使う場合は、分析アプリと同じフォルダにコピーすることを推奨しています。
 
 | コピー先のパス                 | 例                                 |
 | :----------------------------- | :--------------------------------- |
 | %USERPROFILE%\Dkne             | C:\Users\ユーザー名\Dkne           |
 | %USERPROFILE%\Documents\Dkne   | C:\Users\ユーザー名\Documents\Dkne |
 
-※ 分析アプリのDkne: DtDkneなど
+※ 分析アプリ: DtDkne
 
 
 ## 変換定義の準備
