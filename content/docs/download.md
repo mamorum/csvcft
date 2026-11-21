@@ -6,7 +6,7 @@ weight: 2
 ## アプリ
 以下のページから、アプリをダウンロードすることができます。
 
-[【準備中】 CsvCft 投資分析用CSV変換ツール - BOOTH](https://mamorum.booth.pm/items/9037905)
+[CsvCft 投資分析用CSV変換ツール - BOOTH](https://mamorum.booth.pm/items/9037905)
 
 
 ## 変換定義
