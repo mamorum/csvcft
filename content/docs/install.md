@@ -8,12 +8,8 @@ weight: 3
 
 
 ## アプリのコピー
-CsvCft.exe を、ユーザーフォルダ配下などの書き込み可能な場所にコピーします。
-
-| コピー先のパス                 | 例                                   |
-| :----------------------------- | :----------------------------------- |
-| %USERPROFILE%\CsvCft           | C:\Users\ユーザー名\CsvCft           |
-| %USERPROFILE%\Documents\CsvCft | C:\Users\ユーザー名\Documents\CsvCft |
+1. ユーザーフォルダなどの書き込み可能な場所にフォルダを作成します（例. Dkne, CsvCft）
+2. 作成したフォルダに、解凍先にある CsvCft.exe をコピーします
 
 分析アプリと一緒に使う場合は、分析アプリと同じフォルダにコピーすることを推奨しています。
 
@@ -21,6 +17,11 @@ CsvCft.exe を、ユーザーフォルダ配下などの書き込み可能な場
 | :----------------------------- | :--------------------------------- |
 | %USERPROFILE%\Dkne             | C:\Users\ユーザー名\Dkne           |
 | %USERPROFILE%\Documents\Dkne   | C:\Users\ユーザー名\Documents\Dkne |
+
+| コピー先のパス                 | 例                                   |
+| :----------------------------- | :----------------------------------- |
+| %USERPROFILE%\CsvCft           | C:\Users\ユーザー名\CsvCft           |
+| %USERPROFILE%\Documents\CsvCft | C:\Users\ユーザー名\Documents\CsvCft |
 
 ※ 分析アプリ: DtDkne
 
